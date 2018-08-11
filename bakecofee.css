@@ -1,0 +1,38 @@
+	body{
+		background-color: #ffddb7
+	}
+	img {
+		width: 150px;
+		height: 150px;
+	}
+	.home {
+		color: black;
+		background-color: transparent;
+		text-decoration: none;
+		font-family: 'Source Sans Pro', sans-serif;
+	}
+	.local {
+		color: black;
+		background-color: transparent;
+		text-decoration: none;
+		font-family: 'Source Sans Pro', sans-serif;
+	}
+	.cardapio{
+		color: black;
+		background-color: transparent;
+		text-decoration: none;
+		font-family: 'Source Sans Pro', sans-serif;
+	}
+	.eventos{
+		color: black;
+		background-color: transparent;
+		text-decoration: none;
+		font-family: 'Source Sans Pro', sans-serif;
+	}
+	.contato{
+		color: black;
+		background-color: transparent;
+		text-decoration: none;
+		font-family: 'Source Sans Pro', sans-serif;
+	}
+	
